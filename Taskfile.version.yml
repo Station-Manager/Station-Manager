@@ -1,0 +1,40 @@
+version: '3'
+
+vars:
+  VERSION_FILE: .version
+
+tasks:
+  default:
+    cmds:
+      - task -l
+    silent: true
+
+  get:
+    desc: "Get the current version (without incrementing)"
+    cmds:
+      - cat {{.VERSION_FILE}} 2>/dev/null || echo "0.0.0"
+    silent: true
+
+  increment:
+    desc: "Increment patch version and save to file"
+    vars:
+      CURRENT:
+        sh: cat {{.VERSION_FILE}} 2>/dev/null || echo "0.0.0"
+      MAJOR:
+        sh: echo "{{.CURRENT}}" | cut -d. -f1
+      MINOR:
+        sh: echo "{{.CURRENT}}" | cut -d. -f2
+      PATCH:
+        sh: echo "{{.CURRENT}}" | cut -d. -f3
+      NEW_PATCH:
+        sh: echo $(({{.PATCH}} + 1))
+    cmds:
+      - cmd: echo "{{.MAJOR}}.{{.MINOR}}.{{.NEW_PATCH}}" > {{.VERSION_FILE}}
+      - echo -e "\033[33mVersion incremented{{":"}} {{.CURRENT}} → {{.MAJOR}}.{{.MINOR}}.{{.NEW_PATCH}}\033[0m"
+    silent: true
+
+  set:
+    desc: "Set version manually (usage: task version:set -- 1.2.3)"
+    cmds:
+      - cmd: echo "{{.CLI_ARGS}}" > {{.VERSION_FILE}}
+      - echo "Version set to{{":"}} {{.CLI_ARGS}}"
