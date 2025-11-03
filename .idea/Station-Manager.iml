@@ -8,5 +8,6 @@
     <orderEntry type="module" module-name="errors" />
     <orderEntry type="module" module-name="types" />
     <orderEntry type="module" module-name="database" />
+    <orderEntry type="module" module-name="config" />
   </component>
 </module>
