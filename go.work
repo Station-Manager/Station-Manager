@@ -2,4 +2,6 @@ go 1.25
 
 use (
 	errors
+	types
+	database
 )

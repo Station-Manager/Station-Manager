@@ -6,5 +6,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="errors" />
+    <orderEntry type="module" module-name="types" />
+    <orderEntry type="module" module-name="database" />
   </component>
 </module>

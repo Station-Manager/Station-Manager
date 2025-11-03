@@ -1,0 +1,37 @@
+version: '3'
+
+includes:
+  version: Taskfile.version.yml
+
+tasks:
+  default:
+    cmds:
+      - task -l
+    silent: true
+
+  prod:
+    desc: "Production build of the {{.MODULE_NAME}} module"
+    cmds:
+      - echo -e "\033[32mBuilding {{.MODULE_NAME}} module...\033[0m"
+      - task: version:increment
+      - task: build-and-release
+    silent: true
+
+  build-and-release:
+    vars:
+      VERSION:
+        sh: task version:get
+    cmds:
+      - echo -e "Building \033[34m{{.MODULE_NAME}}\033[0m module, version \033[33m{{.VERSION}}...\033[0m"
+      - go mod download
+      - go mod verify
+      - go mod tidy
+      - go vet ./...
+      - go build ./...
+      - go test -race -run Test ./...
+      - git add {{.VERSION_FILE}}
+      - git diff --cached --quiet || git commit -m "Bump {{.MODULE_NAME}} version to v{{.VERSION}}"
+      - git tag -a "v{{.VERSION}}" -m "Release v{{.VERSION}}"
+      - git push origin main --tags
+      - echo -e "✓ \033[1;32m{{.MODULE_NAME}} module v{{.VERSION}} released\033[0m"
+    silent: true
