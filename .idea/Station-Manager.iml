@@ -9,5 +9,6 @@
     <orderEntry type="module" module-name="types" />
     <orderEntry type="module" module-name="database" />
     <orderEntry type="module" module-name="config" />
+    <orderEntry type="module" module-name="utils" />
   </component>
 </module>

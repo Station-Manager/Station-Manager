@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/database/.idea/database.iml" filepath="$PROJECT_DIR$/database/.idea/database.iml" />
       <module fileurl="file://$PROJECT_DIR$/errors/.idea/errors.iml" filepath="$PROJECT_DIR$/errors/.idea/errors.iml" />
       <module fileurl="file://$PROJECT_DIR$/types/.idea/types.iml" filepath="$PROJECT_DIR$/types/.idea/types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utils/.idea/utils.iml" filepath="$PROJECT_DIR$/utils/.idea/utils.iml" />
     </modules>
   </component>
 </project>
