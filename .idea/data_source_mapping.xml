@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/database/concurrency_test.go" value="e8f093f3-3582-4388-91c3-785db5f2d174" />
+    <file url="file://$PROJECT_DIR$/database/service_unit_test.go" value="e8f093f3-3582-4388-91c3-785db5f2d174" />
+  </component>
+</project>
