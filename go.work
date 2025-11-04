@@ -6,4 +6,5 @@ use (
 	errors
 	types
 	utils
+	iocdi
 )

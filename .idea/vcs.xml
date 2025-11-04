@@ -5,6 +5,7 @@
     <mapping directory="$PROJECT_DIR$/config" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/database" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/errors" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/iocdi" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/types" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/utils" vcs="Git" />
   </component>

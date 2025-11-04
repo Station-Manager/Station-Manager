@@ -10,5 +10,6 @@
     <orderEntry type="module" module-name="database" />
     <orderEntry type="module" module-name="config" />
     <orderEntry type="module" module-name="utils" />
+    <orderEntry type="module" module-name="iocdi" />
   </component>
 </module>
