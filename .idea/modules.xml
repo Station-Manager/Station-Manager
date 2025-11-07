@@ -5,7 +5,6 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Station-Manager.iml" filepath="$PROJECT_DIR$/.idea/Station-Manager.iml" />
       <module fileurl="file://$PROJECT_DIR$/adapters/.idea/adapters.iml" filepath="$PROJECT_DIR$/adapters/.idea/adapters.iml" />
       <module fileurl="file://$PROJECT_DIR$/config/.idea/config.iml" filepath="$PROJECT_DIR$/config/.idea/config.iml" />
-      <module fileurl="file://$PROJECT_DIR$/copier/.idea/copier.iml" filepath="$PROJECT_DIR$/copier/.idea/copier.iml" />
       <module fileurl="file://$PROJECT_DIR$/database/.idea/database.iml" filepath="$PROJECT_DIR$/database/.idea/database.iml" />
       <module fileurl="file://$PROJECT_DIR$/errors/.idea/errors.iml" filepath="$PROJECT_DIR$/errors/.idea/errors.iml" />
       <module fileurl="file://$PROJECT_DIR$/iocdi/.idea/iocdi.iml" filepath="$PROJECT_DIR$/iocdi/.idea/iocdi.iml" />
