@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/errors/.idea/errors.iml" filepath="$PROJECT_DIR$/errors/.idea/errors.iml" />
       <module fileurl="file://$PROJECT_DIR$/iocdi/.idea/iocdi.iml" filepath="$PROJECT_DIR$/iocdi/.idea/iocdi.iml" />
       <module fileurl="file://$PROJECT_DIR$/logging/.idea/logging.iml" filepath="$PROJECT_DIR$/logging/.idea/logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/subsys/.idea/subsys.iml" filepath="$PROJECT_DIR$/subsys/.idea/subsys.iml" />
       <module fileurl="file://$PROJECT_DIR$/types/.idea/types.iml" filepath="$PROJECT_DIR$/types/.idea/types.iml" />
       <module fileurl="file://$PROJECT_DIR$/utils/.idea/utils.iml" filepath="$PROJECT_DIR$/utils/.idea/utils.iml" />
     </modules>
