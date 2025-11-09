@@ -7,7 +7,7 @@ use (
 	errors
 	iocdi
 	logging
+	subsys
 	types
 	utils
-	subsys
 )
