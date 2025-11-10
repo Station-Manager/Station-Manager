@@ -10,4 +10,5 @@ use (
 	subsys
 	types
 	utils
+	apikey
 )

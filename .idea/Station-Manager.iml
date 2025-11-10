@@ -14,5 +14,6 @@
     <orderEntry type="module" module-name="logging" />
     <orderEntry type="module" module-name="adapters" />
     <orderEntry type="module" module-name="subsys" />
+    <orderEntry type="module" module-name="server" />
   </component>
 </module>
