@@ -4,13 +4,13 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Station-Manager.iml" filepath="$PROJECT_DIR$/.idea/Station-Manager.iml" />
       <module fileurl="file://$PROJECT_DIR$/adapters/.idea/adapters.iml" filepath="$PROJECT_DIR$/adapters/.idea/adapters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apikey/.idea/apikey.iml" filepath="$PROJECT_DIR$/apikey/.idea/apikey.iml" />
       <module fileurl="file://$PROJECT_DIR$/config/.idea/config.iml" filepath="$PROJECT_DIR$/config/.idea/config.iml" />
       <module fileurl="file://$PROJECT_DIR$/database/.idea/database.iml" filepath="$PROJECT_DIR$/database/.idea/database.iml" />
       <module fileurl="file://$PROJECT_DIR$/errors/.idea/errors.iml" filepath="$PROJECT_DIR$/errors/.idea/errors.iml" />
       <module fileurl="file://$PROJECT_DIR$/iocdi/.idea/iocdi.iml" filepath="$PROJECT_DIR$/iocdi/.idea/iocdi.iml" />
       <module fileurl="file://$PROJECT_DIR$/logging/.idea/logging.iml" filepath="$PROJECT_DIR$/logging/.idea/logging.iml" />
       <module fileurl="file://$PROJECT_DIR$/server/.idea/server.iml" filepath="$PROJECT_DIR$/server/.idea/server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/subsys/.idea/subsys.iml" filepath="$PROJECT_DIR$/subsys/.idea/subsys.iml" />
       <module fileurl="file://$PROJECT_DIR$/types/.idea/types.iml" filepath="$PROJECT_DIR$/types/.idea/types.iml" />
       <module fileurl="file://$PROJECT_DIR$/utils/.idea/utils.iml" filepath="$PROJECT_DIR$/utils/.idea/utils.iml" />
     </modules>

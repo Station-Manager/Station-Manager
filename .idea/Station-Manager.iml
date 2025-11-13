@@ -13,7 +13,7 @@
     <orderEntry type="module" module-name="iocdi" />
     <orderEntry type="module" module-name="logging" />
     <orderEntry type="module" module-name="adapters" />
-    <orderEntry type="module" module-name="subsys" />
     <orderEntry type="module" module-name="server" />
+    <orderEntry type="module" module-name="apikey" />
   </component>
 </module>

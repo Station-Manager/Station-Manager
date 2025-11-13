@@ -3,13 +3,13 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/adapters" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/apikey" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/config" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/database" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/errors" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/iocdi" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/logging" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/server" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/subsys" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/types" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/utils" vcs="Git" />
   </component>
