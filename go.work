@@ -9,6 +9,7 @@ use (
 	iocdi
 	logging
 	server
+	tools
 	types
 	utils
 )
