@@ -19,5 +19,6 @@
     <orderEntry type="module" module-name="serial" />
     <orderEntry type="module" module-name="cat" />
     <orderEntry type="module" module-name="maidenhead" />
+    <orderEntry type="module" module-name="adif" />
   </component>
 </module>

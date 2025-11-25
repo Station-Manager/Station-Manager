@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/adapters" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/adif" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/apikey" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/cat" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/config" vcs="Git" />

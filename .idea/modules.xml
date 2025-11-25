@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Station-Manager.iml" filepath="$PROJECT_DIR$/.idea/Station-Manager.iml" />
       <module fileurl="file://$PROJECT_DIR$/adapters/.idea/adapters.iml" filepath="$PROJECT_DIR$/adapters/.idea/adapters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adif/.idea/adif.iml" filepath="$PROJECT_DIR$/adif/.idea/adif.iml" />
       <module fileurl="file://$PROJECT_DIR$/apikey/.idea/apikey.iml" filepath="$PROJECT_DIR$/apikey/.idea/apikey.iml" />
       <module fileurl="file://$PROJECT_DIR$/cat/.idea/cat.iml" filepath="$PROJECT_DIR$/cat/.idea/cat.iml" />
       <module fileurl="file://$PROJECT_DIR$/config/.idea/config.iml" filepath="$PROJECT_DIR$/config/.idea/config.iml" />
