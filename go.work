@@ -9,6 +9,7 @@ use (
 	database
 	errors
 	iocdi
+	logbook-app
 	logging
 	logging-app
 	maidenhead
