@@ -1,3 +1,4 @@
 copilot.*
 build/db/*
 build/pgadmin_data
+build/config.json
