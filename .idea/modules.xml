@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/errors/.idea/errors.iml" filepath="$PROJECT_DIR$/errors/.idea/errors.iml" />
       <module fileurl="file://$PROJECT_DIR$/iocdi/.idea/iocdi.iml" filepath="$PROJECT_DIR$/iocdi/.idea/iocdi.iml" />
       <module fileurl="file://$PROJECT_DIR$/logging/.idea/logging.iml" filepath="$PROJECT_DIR$/logging/.idea/logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logging-app/.idea/logging-app.iml" filepath="$PROJECT_DIR$/logging-app/.idea/logging-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/maidenhead/.idea/maidenhead.iml" filepath="$PROJECT_DIR$/maidenhead/.idea/maidenhead.iml" />
       <module fileurl="file://$PROJECT_DIR$/serial/.idea/serial.iml" filepath="$PROJECT_DIR$/serial/.idea/serial.iml" />
       <module fileurl="file://$PROJECT_DIR$/server/.idea/server.iml" filepath="$PROJECT_DIR$/server/.idea/server.iml" />

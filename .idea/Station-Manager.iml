@@ -20,5 +20,6 @@
     <orderEntry type="module" module-name="cat" />
     <orderEntry type="module" module-name="maidenhead" />
     <orderEntry type="module" module-name="adif" />
+    <orderEntry type="module" module-name="logging-app" />
   </component>
 </module>
