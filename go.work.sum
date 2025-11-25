@@ -43,7 +43,9 @@ github.com/Masterminds/sprig/v3 v3.2.2/go.mod h1:UoaO7Yp8KlPnJIYWTFkMaqPUYKTfGFP
 github.com/Station-Manager/adapters v0.0.2/go.mod h1:teeCXUMppKJdBtiUWw1750A7ETRsiO+NFQh/JnxQDqg=
 github.com/Station-Manager/adapters v0.0.5/go.mod h1:P32RStoECtzACi6uvUGetwqSmp/kIJQ/Fs6e5WBuO9w=
 github.com/Station-Manager/adapters v0.0.9/go.mod h1:xDGbUWZe26Stlo6X4rIxM8eQzjaCmWxJFWjsH/pwVmk=
-github.com/Station-Manager/database v0.0.11/go.mod h1:2siPhpPVtait0DL9FYqGRhC9LA1IAgwV7mQvX8mtDxY=
+github.com/Station-Manager/config v0.0.9/go.mod h1:k8NnkVdACJbAi6iMM65JWVIugvzGPtB29Dt2OqWDhXs=
+github.com/Station-Manager/types v0.0.22/go.mod h1:b6JU4edbW+yGlXKIwWjqS7ffDjH6a8l/z6k5/H5w4kM=
+github.com/Station-Manager/types v0.0.24/go.mod h1:b6JU4edbW+yGlXKIwWjqS7ffDjH6a8l/z6k5/H5w4kM=
 github.com/andybalholm/brotli v1.0.4 h1:V7DdXeJtZscaqfNuAdSRuRFzuiKlHSC/Zh3zl9qY3JY=
 github.com/andybalholm/brotli v1.0.4/go.mod h1:fO7iG3H7G2nSZ7m0zPUDn85XEX2GTukHGRSepvi9Eig=
 github.com/apache/arrow/go/v10 v10.0.1 h1:n9dERvixoC/1JjDmBcs9FPaEryoANa2sCgVFo6ez9cI=

@@ -3,11 +3,14 @@ go 1.25
 use (
 	adapters
 	apikey
+	cat
 	config
 	database
 	errors
 	iocdi
 	logging
+	maidenhead
+	serial
 	server
 	tools
 	types

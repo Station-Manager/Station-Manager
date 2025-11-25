@@ -16,5 +16,7 @@
     <orderEntry type="module" module-name="server" />
     <orderEntry type="module" module-name="apikey" />
     <orderEntry type="module" module-name="tools" />
+    <orderEntry type="module" module-name="serial" />
+    <orderEntry type="module" module-name="cat" />
   </component>
 </module>
