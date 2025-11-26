@@ -22,5 +22,6 @@
     <orderEntry type="module" module-name="adif" />
     <orderEntry type="module" module-name="logging-app" />
     <orderEntry type="module" module-name="logbook-app" />
+    <orderEntry type="module" module-name="enums" />
   </component>
 </module>
