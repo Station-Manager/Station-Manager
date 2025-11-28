@@ -57,6 +57,7 @@ github.com/StackExchange/wmi v1.2.1/go.mod h1:rcmrprowKIVzvc+NUiLncP2uuArMWLCbu9
 github.com/Station-Manager/adapters v0.0.2/go.mod h1:teeCXUMppKJdBtiUWw1750A7ETRsiO+NFQh/JnxQDqg=
 github.com/Station-Manager/adapters v0.0.5/go.mod h1:P32RStoECtzACi6uvUGetwqSmp/kIJQ/Fs6e5WBuO9w=
 github.com/Station-Manager/adapters v0.0.9/go.mod h1:xDGbUWZe26Stlo6X4rIxM8eQzjaCmWxJFWjsH/pwVmk=
+github.com/Station-Manager/cat v0.0.5/go.mod h1:8uYMmPE5vAfJhH4RMbSBQWgjTWN1v9OXmOVo/pD7cFs=
 github.com/Station-Manager/config v0.0.9/go.mod h1:k8NnkVdACJbAi6iMM65JWVIugvzGPtB29Dt2OqWDhXs=
 github.com/Station-Manager/types v0.0.22/go.mod h1:b6JU4edbW+yGlXKIwWjqS7ffDjH6a8l/z6k5/H5w4kM=
 github.com/acarl005/stripansi v0.0.0-20180116102854-5a71ef0e047d h1:licZJFw2RwpHMqeKTCYkitsPqHNxTmd4SNR5r94FGM8=
