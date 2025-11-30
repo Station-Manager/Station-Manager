@@ -23,5 +23,6 @@
     <orderEntry type="module" module-name="logging-app" />
     <orderEntry type="module" module-name="logbook-app" />
     <orderEntry type="module" module-name="enums" />
+    <orderEntry type="module" module-name="lookup" />
   </component>
 </module>

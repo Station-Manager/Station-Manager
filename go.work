@@ -13,6 +13,7 @@ use (
 	logbook-app
 	logging
 	logging-app
+	lookup
 	maidenhead
 	serial
 	server
