@@ -24,5 +24,6 @@
     <orderEntry type="module" module-name="logbook-app" />
     <orderEntry type="module" module-name="enums" />
     <orderEntry type="module" module-name="lookup" />
+    <orderEntry type="module" module-name="forwarding" />
   </component>
 </module>

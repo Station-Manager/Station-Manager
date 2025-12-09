@@ -10,6 +10,7 @@
     <mapping directory="$PROJECT_DIR$/database" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/enums" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/errors" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/forwarding" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/iocdi" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/logbook-app" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/logging" vcs="Git" />

@@ -9,6 +9,7 @@ use (
 	database
 	enums
 	errors
+	forwarding
 	iocdi
 	logbook-app
 	logging
