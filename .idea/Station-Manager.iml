@@ -25,5 +25,6 @@
     <orderEntry type="module" module-name="enums" />
     <orderEntry type="module" module-name="lookup" />
     <orderEntry type="module" module-name="forwarding" />
+    <orderEntry type="module" module-name="email" />
   </component>
 </module>
