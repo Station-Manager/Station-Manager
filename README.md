@@ -18,6 +18,15 @@
 - pkg-config: `sudo pacman -S pkg-config`
 - docker: `sudo pacman -S docker`
 
+## Git (GitHub)
+
+- `git config --global user.name`
+- `git config --global user.email`
+
+Store the GitHub token in the `.env` file:
+
+    GITHUB_TOKEN=my_github_token
+
 # Serial Port
 
 If you receive an error regarding serial port permissions, it is likely that you need need to
