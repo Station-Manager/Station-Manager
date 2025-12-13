@@ -6,6 +6,11 @@
         <language minSize="79" name="Go" />
       </Languages>
     </inspection_tool>
+    <inspection_tool class="GoResourceLeak" enabled="true" level="WARNING" enabled_by_default="true">
+      <types>
+        <type name="quotedprintable.Writer" />
+      </types>
+    </inspection_tool>
     <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="myValues">
         <value>
