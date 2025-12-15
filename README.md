@@ -17,6 +17,7 @@
 - libwebkit: `sudo pacman -S webkit2gtk`
 - pkg-config: `sudo pacman -S pkg-config`
 - docker: `sudo pacman -S docker`
+- npm cli: `sudo npm install -g @go-task/cli`
 
 ## Git (GitHub)
 
