@@ -2,6 +2,8 @@
 
 ## Go (latest version)
 
+`sudo pacman go`
+
 ### Go Packages
 
 - `go install github.com/wailsapp/wails/v2/cmd/wails@latest`
@@ -11,7 +13,7 @@
 
 ## Build Tools
 
-- go-task: `sudo packman -S go-task`
+- go-task: `sudo pacman -S go-task`
 - npm: `sudo pacman -S npm`
 - gcc: `sudo pacman -S gcc`
 - libwebkit: `sudo pacman -S webkit2gtk`
@@ -24,7 +26,7 @@
 - `git config --global user.name`
 - `git config --global user.email`
 
-Store the GitHub token in the `.env` file:
+Store the GitHub token in the `.env` file, in the root project (Station-Manager):
 
     GITHUB_TOKEN=my_github_token
 
