@@ -4,4 +4,5 @@ build/bin
 build/pgadmin_data
 build/config.json
 build/**/*.log
+build/*.adi
 .env
