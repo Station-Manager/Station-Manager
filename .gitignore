@@ -2,7 +2,7 @@ copilot.*
 build/db/*
 build/bin
 build/pgadmin_data
-build/config.json
+build/config.json.orig
 build/**/*.log
 build/*.adi
 .env
