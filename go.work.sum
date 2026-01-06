@@ -942,7 +942,7 @@ github.com/Station-Manager/adapters v0.0.5/go.mod h1:P32RStoECtzACi6uvUGetwqSmp/
 github.com/Station-Manager/adapters v0.0.9/go.mod h1:xDGbUWZe26Stlo6X4rIxM8eQzjaCmWxJFWjsH/pwVmk=
 github.com/Station-Manager/cat v0.0.0-20251123090424-b0d8a6f834dd/go.mod h1:5Yak7Qc0NGATFPSkZGkg+EKdxByDDBR6U4az89NRnoI=
 github.com/Station-Manager/config v0.0.9/go.mod h1:k8NnkVdACJbAi6iMM65JWVIugvzGPtB29Dt2OqWDhXs=
-github.com/Station-Manager/config v0.0.35/go.mod h1:2bhje/UmJYWWu9U7oXV8DdJyc5XOAgSMzcAnhTCUdJs=
+github.com/Station-Manager/config v0.0.36/go.mod h1:k/buM1tq8wzQJH1C8EXWN6+KcvkgOKgMrFqpA6vJsNo=
 github.com/Station-Manager/database v0.0.17/go.mod h1:XCaZ61WDnVIAICNSTbzPgkq6s+3KO1nd8jfwBebCEYY=
 github.com/Station-Manager/database v0.0.49/go.mod h1:Exzf6lGciir0LHLqrGmA1iQtEKSAlhyQS5WZIJ0NSYs=
 github.com/Station-Manager/enums v0.0.3/go.mod h1:+DM4D5iPVIXyaflzHsBVQQb5DnBnL0iYNaddkKiBdao=
