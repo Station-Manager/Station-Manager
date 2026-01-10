@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/apikey/.idea/apikey.iml" filepath="$PROJECT_DIR$/apikey/.idea/apikey.iml" />
       <module fileurl="file://$PROJECT_DIR$/cat/.idea/cat.iml" filepath="$PROJECT_DIR$/cat/.idea/cat.iml" />
       <module fileurl="file://$PROJECT_DIR$/config/.idea/config.iml" filepath="$PROJECT_DIR$/config/.idea/config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cwdecoder/.idea/cwdecoder.iml" filepath="$PROJECT_DIR$/cwdecoder/.idea/cwdecoder.iml" />
       <module fileurl="file://$PROJECT_DIR$/database/.idea/database.iml" filepath="$PROJECT_DIR$/database/.idea/database.iml" />
       <module fileurl="file://$PROJECT_DIR$/email/.idea/email.iml" filepath="$PROJECT_DIR$/email/.idea/email.iml" />
       <module fileurl="file://$PROJECT_DIR$/enums/.idea/enums.iml" filepath="$PROJECT_DIR$/enums/.idea/enums.iml" />

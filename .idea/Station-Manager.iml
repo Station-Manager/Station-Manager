@@ -27,5 +27,6 @@
     <orderEntry type="module" module-name="forwarding" />
     <orderEntry type="module" module-name="email" />
     <orderEntry type="module" module-name=".github" />
+    <orderEntry type="module" module-name="cwdecoder" />
   </component>
 </module>
