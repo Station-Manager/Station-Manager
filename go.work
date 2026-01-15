@@ -6,7 +6,7 @@ use (
 	apikey
 	cat
 	config
-	cwdecoder
+	config-app
 	database
 	email
 	enums
