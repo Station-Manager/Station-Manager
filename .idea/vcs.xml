@@ -22,6 +22,7 @@
     <mapping directory="$PROJECT_DIR$/maidenhead" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/serial" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/shared-utils" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/tools" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/types" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/utils" vcs="Git" />
