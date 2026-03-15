@@ -13,6 +13,7 @@ use (
 	errors
 	forwarding
 	iocdi
+	listeners
 	logbook-app
 	logging
 	logging-app
